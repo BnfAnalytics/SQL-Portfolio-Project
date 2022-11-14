@@ -417,3 +417,9 @@ where EmployeeID in (
 	Select EmployeeID 
 	From EmployeeDemographics
 	where Age > 30)
+	
+MOST IMPORTANT TOPIC of SQL:
+1. JOINS
+2. STORED PROCEDURES
+3. CASE STATEMENT
+4. CTE
